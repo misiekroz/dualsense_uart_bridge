@@ -1,6 +1,6 @@
 # Dualsense Uart Bridge
 
-Dualsense Uart Bridge is a companion software for my Sunflower project. It is used to map DualSense controller inputs to UART frames in order to control the end device. Based on top of [Yesbotic's dualsense-controller-python](https://github.com/yesbotics/dualsense-controller-python) package.
+Dualsense Uart Bridge is a companion software for my [Sunflower](https://github.com/misiekroz/sunflower) project. It is used to map DualSense controller inputs to UART frames in order to control the end device. Based on top of [Yesbotic's dualsense-controller-python](https://github.com/yesbotics/dualsense-controller-python) package.
 
 I am sharing more of as an inspiration of others than a standalone software. Enjoy!
 
